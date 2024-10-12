@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently studying Computer Science<br>🌱I am currently learning Web Dev, ML<br>
+🚀 Hi, I'm Srikar, a CS Student and coding since 2019<br>🔭 I am currently studying Computer Science<br>🌱I am currently learning Web Dev, ML<br>
 
 
 # 💻 Tech Stack:
