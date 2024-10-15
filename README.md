@@ -7,8 +7,9 @@
 
 
 # 💡 My Interests
+https://github.com/user-attachments/assets/7a1cc3d7-5d61-4351-a089-7afe264f3e38
 
-https://github.com/user-attachments/assets/aefd433b-1829-47d7-bd60-e8e74a7b3c2c
+
 
 
 
