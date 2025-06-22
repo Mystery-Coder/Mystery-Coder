@@ -28,6 +28,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mystery-Coder&icon=1&color=6)](https://visitcount.itsvg.in)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Mystery-Coder)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
