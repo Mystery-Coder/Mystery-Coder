@@ -25,7 +25,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Mystery-Coder&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://quotes-github-readme.vercel.app/api?theme=nord)
 
 ---
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Mystery-Coder)
