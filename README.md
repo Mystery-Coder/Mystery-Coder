@@ -3,13 +3,19 @@
 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,p5js,processing,flutter,dart,express,python,go,c,cpp,bash,arduino,raspberrypi&theme=light&perline=6" />
+  </a>
+</p>
 
 # 💡 My Interests
 <!---https://github.com/user-attachments/assets/7a1cc3d7-5d61-4351-a089-7afe264f3e38-->
 
-  ![MyScene-ezgif com-video-to-gif-converter(1)](https://github.com/user-attachments/assets/0f5a945a-f0cf-40f8-bfcc-fb874784bfdb)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f5a945a-f0cf-40f8-bfcc-fb874784bfdb">
+</p>
 
 
 
@@ -17,15 +23,17 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mystery-Coder&theme=neon&hide_border=true&include_all_commits=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mystery-Coder&theme=neon&hide_border=true&include_all_commits=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mystery-Coder&theme=neon&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-Coder&theme=neon&hide_border=true&include_all_commits=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mystery-Coder&theme=vue-dark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Mystery-Coder&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?theme=nord)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?theme=nord">
+</p>
 
 ---
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Mystery-Coder)
