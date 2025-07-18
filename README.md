@@ -30,6 +30,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mystery-Coder&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
+---
+
 ### Stoic Quote of the Day <a href="https://github.com/Mystery-Coder/go-stoic-quotes">(Made with Go)</a>
 <p align="center">
   <img src="https://go-stoic-quotes-production.up.railway.app/stoic-quote-svg?theme=random">
