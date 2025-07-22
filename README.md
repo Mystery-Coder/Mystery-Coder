@@ -40,6 +40,6 @@
 ---
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Mystery-Coder)
 
-
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
