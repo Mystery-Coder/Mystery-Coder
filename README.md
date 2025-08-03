@@ -25,8 +25,7 @@ Check out <a href="https://srikar.is-a.dev" target="_blank" rel="noopener norefe
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mystery-Coder&theme=neon&hide_border=true&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mystery-Coder&theme=neon&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mystery-Coder&theme=neon&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mystery-Coder&theme=neon&hide_border=true&include_all_commits=true&layout=compact)
 
 ## 🏆 GitHub Trophies
