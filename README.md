@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Hi, I'm Srikar, a CS Student and coding since 2019<br>🔭 I am currently studying Computer Science<br>🌱I am currently learning Web Dev, ML<br>
+🚀 Hi, I'm Srikar, a CS Student and coding since 2019<br>🔭 I am currently studying Computer Science at RVCE, Bengaluru
 
 Check out 👉 <a href="https://srikar.is-a.dev" target="_blank" rel="noopener noreferrer">srikar.is-a.dev</a>
 
