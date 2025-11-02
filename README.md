@@ -40,6 +40,7 @@ Check out 👉 <a href="https://srikar.is-a.dev" target="_blank" rel="noopener n
 </p>
 </a> 
 
+---
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Mystery-Coder)
 
