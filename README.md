@@ -38,8 +38,9 @@ Check out 👉 <a href="https://srikar.is-a.dev" target="_blank" rel="noopener n
 <p align="center">
   <img src="https://go-stoic-quotes-production.up.railway.app/stoic-quote-svg?theme=random&t=1221">
 </p>
-</a> 
+</a>
 
+---
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Mystery-Coder)
 
