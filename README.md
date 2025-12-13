@@ -34,11 +34,11 @@ Check out 👉 <a href="https://srikar.is-a.dev" target="_blank" rel="noopener n
 ---
 
 ### Stoic Quote of the Day <a href="https://github.com/Mystery-Coder/go-stoic-quotes">(Made with Go)</a>
-<a href="https://go-stoic-quotes-production.up.railway.app/">
+
+
 <p align="center">
-  <img src="https://go-stoic-quotes-production.up.railway.app/stoic-quote-svg?theme=random&t=1221">
+  <a href="https://go-stoic-quotes-production.up.railway.app/"><img src="https://go-stoic-quotes-production.up.railway.app/stoic-quote-svg?theme=random&t=1221"></a>
 </p>
-</a>
 
 
 
